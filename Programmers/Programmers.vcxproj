@@ -795,6 +795,7 @@
     </ClCompile>
     <ClCompile Include="solution178871.cpp" />
     <ClCompile Include="solution250137.cpp" />
+    <ClCompile Include="solution42576.cpp" />
     <ClCompile Include="solution77485.cpp">
       <RuntimeLibrary>MultiThreadedDebugDll</RuntimeLibrary>
       <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
