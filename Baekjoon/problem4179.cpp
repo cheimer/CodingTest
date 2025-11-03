@@ -1,6 +1,7 @@
 ﻿/*
+/*
  *  Link : https://www.acmicpc.net/problem/4179
- */
+ #1#
 
 #include "iostream"
 #include "vector"
@@ -121,3 +122,4 @@ int main()
     return 0;
     
 }
+*/

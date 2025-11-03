@@ -1,4 +1,5 @@
 ﻿/*
+/*
  * Link : https://school.programmers.co.kr/learn/courses/30/lessons/42898
  *
  * Solution : 시작점에서 우측, 하단으로만 움직여서 해당 좌표로 갈수 있는 경로의 갯수 % 1000000007
@@ -9,7 +10,7 @@
  *  1 <= m, n <= 100
  *  0 <= puddles.size <= 10
  *
- */
+ #1#
 
 #include <queue>
 #include <vector>
@@ -67,3 +68,4 @@ int solution(int m, int n, vector<vector<int>> puddles)
     
     return static_cast<int>(tiles[m][n]);
 }
+*/
